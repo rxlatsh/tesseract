@@ -23,6 +23,7 @@ Simple python demo script of tesseract-ocr 3.02 c-api
 import os
 import sys
 import ctypes
+import tesseract
 
 # Demo variables
 lang = "eng"
